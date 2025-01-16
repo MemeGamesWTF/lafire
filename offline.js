@@ -1,0 +1,33 @@
+﻿{
+	"version": 1737030020,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/redlightgreenlighthowto-sheet0.png",
+		"images/redlightgreenlighthowto-sheet1.png",
+		"images/redlightgreenlighthowto-sheet2.png",
+		"images/play-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite-sheet1.png",
+		"images/image_fx_43photoroom-sheet0.png",
+		"images/particles.png",
+		"images/particles2.png",
+		"images/particles3.png",
+		"media/tap.m4a",
+		"media/tap.ogg",
+		"media/fire.m4a",
+		"media/fire.ogg",
+		"media/water.m4a",
+		"media/water.ogg",
+		"media/bg.m4a",
+		"media/bg.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
