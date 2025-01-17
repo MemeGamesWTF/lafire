@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1737109901,
+	"version": 1737113181,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,6 +18,7 @@
 		"images/bg-sheet0.png",
 		"images/burnedground-sheet0.png",
 		"images/waterdroppoint-sheet0.png",
+		"images/redcirclepng-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"media/fire.m4a",
