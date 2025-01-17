@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1737106650,
+	"version": 1737106865,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,11 +11,11 @@
 		"images/play-sheet0.png",
 		"images/trigger-sheet0.png",
 		"images/trigger-sheet1.png",
-		"images/image_fx_43photoroom-sheet0.png",
+		"images/watercanon-sheet0.png",
 		"images/fire.png",
 		"images/smoke.png",
 		"images/water.png",
-		"images/image_fx_-sheet0.png",
+		"images/bg-sheet0.png",
 		"images/burnedground-sheet0.png",
 		"images/waterdroppoint-sheet0.png",
 		"media/tap.m4a",
